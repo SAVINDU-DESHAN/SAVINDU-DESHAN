@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SAVINDU-DESHAN/github-readme-activity-graph"><img alt="SAVIYA OFFICIAL's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SAVIYA-OFFICIAL&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SAVINDU-DESHAN/github-readme-activity-graph"><img alt="SAVIYA OFFICIAL's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SAVINDU-DESHAN&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -72,12 +72,12 @@
 <a href = "https://www.linkedin.com/in/savindu-deshan-094616223/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/SAVIYA_OFFICIAL"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/saviyaofficial/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/c/saviyaofficial_Sri_Lanka_Tech_World"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.youtube.com/c/UCSVEKn59w7-spbvQUFUSHOg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/SAVIYA-OFFICIAL/github-profile-views-counter">
+<a href="https://github.com/SAVINDU-DESHAN/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
-<a href="https://github.com/SAVIYA-OFFICIAL/-github-readme-stats/tree/main"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SAVINDU-DESHAN/-github-readme-stats/tree/main"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
