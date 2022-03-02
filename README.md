@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m Owner for <b> [SAVIYA OFFICIAL](https://www.youtube.com/c/saviyaofficial_Sri_Lanka_Tech_World) </b> You tube chanel
+- 🔭 I’m Owner for <b> [SAVIYA OFFICIAL](https://www.youtube.com/channel/UCSVEKn59w7-spbvQUFUSHOg) </b> You tube chanel
 
 - 🌱 I’m currently learning **Softwear Developeing**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My profile](https://github.com/SAVIYA-OFFICIAL)**
+- 👨‍💻 All of my projects are available at **[My profile](https://github.com/SAVINDU-DESHAN)**
 
 - 📫 How to reach me **savindu6758@gmail.com**
 
@@ -44,7 +44,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/SAVIYA-OFFICIAL/-github-readme-stats/tree/main">
+    <a href="https://github.com/SAVINDU-DESHAN-github-readme-stats/tree/main">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SAVIYA OFFICIAL's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -53,7 +53,7 @@
 
   <br/>
     <a href="https://github.com/SAVIYA-OFFICIAL/-github-readme-stats/tree/main"><img alt="SAVIYA OFFICIAL's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SAVIYA-OFFICIAL&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/SAVIYA-OFFICIAL/-github-readme-stats/tree/main"><img alt="SAVIYA OFFICIAL's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAVIYA-OFFICIAL&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/SAVINDU-DESHAN/-github-readme-stats/tree/main"><img alt="SAVIYA OFFICIAL's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAVIYA-OFFICIAL&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -61,7 +61,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SAVIYA-OFFICIAL/github-readme-activity-graph"><img alt="SAVIYA OFFICIAL's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SAVIYA-OFFICIAL&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SAVINDU-DESHAN/github-readme-activity-graph"><img alt="SAVIYA OFFICIAL's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SAVIYA-OFFICIAL&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
