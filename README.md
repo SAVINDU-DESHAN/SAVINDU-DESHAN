@@ -80,4 +80,4 @@
 <a href="https://github.com/SAVINDU-DESHAN/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
-<a href="https://github.com/SAVINDU-DESHAN/-github-readme-stats/tree/main"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SAVINDU-DESHAN/-github-readme-stats/tree/main"><img src="https://img.shields.io/github/followers/SAVINDU-DESHAN?label=Followers&style=social" alt="GitHub Badge"></a>
