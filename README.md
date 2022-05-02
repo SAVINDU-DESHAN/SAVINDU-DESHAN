@@ -1,3 +1,9 @@
+<p align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=SAVINDU+DESHAN&font=Fira%20Code&center=true&width=380&height=50">
+
+</p>
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm SAVIYA</h1>
