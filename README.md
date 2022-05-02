@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m Owner for <b> [SAVIYA OFFICIAL](https://www.youtube.com/channel/UCSVEKn59w7-spbvQUFUSHOg) </b> You tube chanel
+- 🔭 I’m Owner for <b> 𝑹𝒂𝒘𝒂𝒏𝒂 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓'𝒔 </>✌️ </b> [You tube chanel](https://www.youtube.com/channel/UCSVEKn59w7-spbvQUFUSHOg) & [Telegram Team](https://t.me/Rawana_Developers)
 
 - 🌱 I’m currently learning **Softwear Developeing**
 
@@ -25,7 +25,7 @@
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
 ## 💰 Support Me
-<a href="https://ko-fi.com/savindu_deshan" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
+<a href="https://t.me/About_Saviya" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
 
 ## 🚀 Languages and Tools:
 
