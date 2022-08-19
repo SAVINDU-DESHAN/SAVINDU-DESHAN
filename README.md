@@ -24,6 +24,18 @@
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
+
+This is my life motto:
+
+```php
+// Enquanto a vida for Open Source...
+while($life->isOpenSource()) {
+    // diz que ama codar e ama alguém inteligente
+    echo 'I love to code. I love you, ' . $name . '! ';
+}
+```
+
+
 ## 💰 Support Me
 <a href="https://t.me/About_Saviya" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
 
