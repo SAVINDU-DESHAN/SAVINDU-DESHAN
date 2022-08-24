@@ -82,7 +82,7 @@ while($life->isOpenSource()) {
 <br/>
 <br/>
 
-<a href="https://github.com/SAVINDU-DESHAN/github-readme-activity-graph"><img alt="SAVIYA OFFICIAL's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SAVINDU-DESHAN&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SAVINDU-DESHAN/github-readme-activity-graph"><img alt="SAVINDU DESHAN's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SAVINDU-DESHAN&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
