@@ -6,21 +6,21 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b> , I'm SAVIYA</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Sri lanka.</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b> , I'm SAVINDU DESHAN</h1>
+<h3 align="center">Professional Penetration Tester, Carder, Hacker in Sri Lanka</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m Owner for <b> 𝑹𝒂𝒘𝒂𝒏𝒂 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓'𝒔 </>✌️ </b> [You tube chanel](https://www.youtube.com/channel/UCSVEKn59w7-spbvQUFUSHOg) & [Telegram Team](https://t.me/Rawana_Developers)
+- 🔭 I’m Owner for <b> My Life Style </b> 
 
-- 🌱 I’m currently learning **Softwear Developeing**
+- 🌱 I’m currently learning **All Subjects in world**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My profile](https://github.com/SAVINDU-DESHAN)**
 
-- 📫 How to reach me **savindu6758@gmail.com**
+- 📫 How to reach me **Savindu.dev.lk@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
@@ -37,7 +37,7 @@ while($life->isOpenSource()) {
 
 
 ## 💰 Support Me
-<a href="https://t.me/About_Saviya" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
+<a href="https://t.me/SAVINDU_DESHAN" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
 
 ## 🚀 Languages and Tools:
 
@@ -66,7 +66,7 @@ while($life->isOpenSource()) {
 
 <p align="center">
     <a href="https://github.com/SAVINDU-DESHAN-github-readme-stats/tree/main">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SAVIYA OFFICIAL's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="SAVINDU DESHAN streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -80,20 +80,13 @@ while($life->isOpenSource()) {
 
 
 <br/>
-<br/>
-
-<a href="https://github.com/SAVINDU-DESHAN/github-readme-activity-graph"><img alt="SAVINDU DESHAN's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SAVINDU-DESHAN&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/savindu-deshan-094616223/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/SAVIYA_OFFICIAL"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/saviyaofficial/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/c/UCSVEKn59w7-spbvQUFUSHOg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://twitter.com/S_a_v_i_n_d_u"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.youtube.com/c/Pixsome"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
