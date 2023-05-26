@@ -84,7 +84,7 @@ while($life->isOpenSource()) {
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/savindu-deshan-094616223/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/savindu-deshan-484484278/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/S_a_v_i_n_d_u"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.youtube.com/c/Pixsome"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
